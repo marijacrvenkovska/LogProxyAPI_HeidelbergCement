@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LogProxyAPI.AirTableService\LogProxyAPI.AirTableService.csproj" />
+    <ProjectReference Include="..\LogProxyAPI.Domain\LogProxyAPI.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

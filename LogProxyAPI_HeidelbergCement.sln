@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProxyAPI_HeidelbergCement", "LogProxyAPI_HeidelbergCement\LogProxyAPI_HeidelbergCement.csproj", "{D6141620-E1C1-4D3F-894D-54FF78AFD1B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProxyAPI.AirTableService.UnitTest", "LogProxyAPI.AirTableService.UnitTest\LogProxyAPI.AirTableService.UnitTest.csproj", "{6744B2E5-4150-4B8A-BE57-70E031E6C859}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProxyAPI.Core", "LogProxyAPI.Core\LogProxyAPI.Core.csproj", "{1B2CFD0B-6315-4AE4-8625-14FC4225D2BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProxyAPI.AirTableService", "LogProxyAPI.AirTableService\LogProxyAPI.AirTableService.csproj", "{70BBBEBB-8D4B-4F36-86E5-18496FF8B44F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProxyAPI.Domain", "LogProxyAPI.Domain\LogProxyAPI.Domain.csproj", "{291E28B4-3AC5-436E-B68B-490AFA2B5E17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogProxyAPI.UserManagement", "LogProxyAPI.UserManagement\LogProxyAPI.UserManagement.csproj", "{46FD8BA7-A415-4822-85E3-34B41B611B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6141620-E1C1-4D3F-894D-54FF78AFD1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6141620-E1C1-4D3F-894D-54FF78AFD1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6141620-E1C1-4D3F-894D-54FF78AFD1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6141620-E1C1-4D3F-894D-54FF78AFD1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6744B2E5-4150-4B8A-BE57-70E031E6C859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6744B2E5-4150-4B8A-BE57-70E031E6C859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6744B2E5-4150-4B8A-BE57-70E031E6C859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6744B2E5-4150-4B8A-BE57-70E031E6C859}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2CFD0B-6315-4AE4-8625-14FC4225D2BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2CFD0B-6315-4AE4-8625-14FC4225D2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2CFD0B-6315-4AE4-8625-14FC4225D2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2CFD0B-6315-4AE4-8625-14FC4225D2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BBBEBB-8D4B-4F36-86E5-18496FF8B44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BBBEBB-8D4B-4F36-86E5-18496FF8B44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BBBEBB-8D4B-4F36-86E5-18496FF8B44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BBBEBB-8D4B-4F36-86E5-18496FF8B44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291E28B4-3AC5-436E-B68B-490AFA2B5E17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291E28B4-3AC5-436E-B68B-490AFA2B5E17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291E28B4-3AC5-436E-B68B-490AFA2B5E17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291E28B4-3AC5-436E-B68B-490AFA2B5E17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46FD8BA7-A415-4822-85E3-34B41B611B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46FD8BA7-A415-4822-85E3-34B41B611B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46FD8BA7-A415-4822-85E3-34B41B611B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46FD8BA7-A415-4822-85E3-34B41B611B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62528997-DDD7-4C5A-8525-5E60A145735C}
+	EndGlobalSection
+EndGlobal
